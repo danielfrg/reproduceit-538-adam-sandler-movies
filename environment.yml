@@ -1,0 +1,13 @@
+name: 538-sandler
+dependencies:
+  - python=3.4.3=0
+  - requests=2.6.2=py34_0
+  - numpy=1.9.2=py34_0
+  - scipy=0.15.1=np19py34_0
+  - pandas=0.16.0=np19py34_1
+  - scikit-learn=0.16.1=np19py34_0
+  - lxml=3.4.3=py34_0
+  - html5lib=0.999=py34_0
+  - bokeh=0.8.2=np19py34_0
+  - beautiful-soup=4.3.2=py34_0
+  - ipython-notebook=3.1.0=py34_1
